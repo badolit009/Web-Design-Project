@@ -1,0 +1,97 @@
+﻿body {
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+header {
+    width: 960px;
+    font-family: sans-serif;
+    float: left;
+}
+.logo {
+    width: 400px;
+    height: 100px;
+    background: red;
+    float: left;
+    font-family: 'Lato', sans-serif;
+}
+.banner
+{
+    width: 560px;
+    height: 100px;
+    background: orange;
+    float: left;
+}
+nav {
+    width: 960px;
+}
+nav ul {
+    
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    width: 190px;
+    display: inline-block;
+    float: left;
+    background: gray;
+    color: white;
+    padding: 20px 0;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+nav ul li a:hover {
+    color: gray;
+    background: white;
+}
+.container {
+    width: 960px;
+    float: left;
+
+}
+.contant {
+    width: 600px;
+    float: left;
+}
+aside {
+    width: 360px;
+    float: left;
+}
+.contant article{
+    width: 594px;
+    border: 1px solid black;
+    padding: 2px;
+}
+.contant article h1 {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+.contant article p {
+    text-align: justify;
+}
+section {
+    width: 346px;
+    background: palevioletred;
+    color: black;
+    font-weight: bold;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
+footer {
+    width: 960px;
+    background: grey;
+    color: white;
+    clear: both;
+    padding: 10px 0;
+    text-align: center;
+}
