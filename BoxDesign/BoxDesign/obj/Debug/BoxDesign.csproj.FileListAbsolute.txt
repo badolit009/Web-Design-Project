@@ -1,0 +1,6 @@
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\bin\BoxDesign.dll.config
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\bin\BoxDesign.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\bin\BoxDesign.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\obj\Debug\BoxDesign.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\obj\Debug\BoxDesign.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\BoxDesign\BoxDesign\obj\Debug\BoxDesign.pdb

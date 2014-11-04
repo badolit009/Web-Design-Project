@@ -1,0 +1,28 @@
+﻿.box1 {
+    width: 360px;
+    background: gray;
+    padding: 20px;
+    margin: 50px auto;
+}
+.box2 {
+    width: 320px;
+    background: gold;
+    padding: 20px;
+}
+.box3 {
+    width: 280px;
+    background: goldenrod;
+    padding: 20px;
+}
+.box4 {
+    width: 240px;
+    background: orange;
+    padding: 20px;
+
+}
+.box5 {
+    width: 240px;
+    background: red;
+    
+    
+}
