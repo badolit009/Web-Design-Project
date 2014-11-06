@@ -1,0 +1,6 @@
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\bin\bdislam.dll.config
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\bin\bdislam.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\bin\bdislam.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\obj\Debug\bdislam.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\obj\Debug\bdislam.dll
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\WebPeoject\bdislam\bdislam\obj\Debug\bdislam.pdb
